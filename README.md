@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**sunnyicodelabs/sunnyicodelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, my name's Ahamed Sunny.
+#### I am Front-End  Web Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Enthuisast as a learner and coder. patient about problem solving.
+
+Skills:  HTML / CSS /SCSS / BOOTSTRAP / JAVASCRIPT / REACT / REDUX / MATERIAL-UI  / NODEJS / MOGODB / MONGOOSE / 
+
+
+
+
+[![sunny's github stats](https://github-readme-stats.vercel.app/api?username=sunnyicodelabs)](https://github.com/sunnyicodelabs/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyicodelabs&layout=compact)](https://github.com/sunnyicodelabs/github-readme-stats)
